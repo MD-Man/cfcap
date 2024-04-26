@@ -1,9 +1,5 @@
 {
   "authenticationMethod": "route",
-  "logout": {
-    "logoutEndpoint": "/app-logout",
-    "logoutPage": "/"
-  },
   "routes": [
     {
       "source": "^/app/(.*)$",
